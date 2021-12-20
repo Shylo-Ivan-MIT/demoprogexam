@@ -28,6 +28,8 @@ public class DemoApplication {
         long N;
         N = a + d*(n-1);
         out.print("   The value of n-element " + N);
+        out.print("   made by Shylo Ivan");
+
         out.flush();
     }
 }
